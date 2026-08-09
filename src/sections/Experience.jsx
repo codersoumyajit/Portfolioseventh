@@ -5,13 +5,13 @@ import { motion, useScroll, useTransform } from "framer-motion";
 
 // Array of experience objects containing job details
 const experiences = [
-  {
-    role: "Unstop Campus Ambassador",
-    company: "Unstop",
-    duration: "2025 - 2026",
-    description:
-      "worked on stakeholder coordination, data-driven outreach, and digital engagement while collaborating with teams to improve participation and process efficiency.",
-  },
+  // {
+  //   role: "Unstop Campus Ambassador",
+  //   company: "Unstop",
+  //   duration: "2025 - 2026",
+  //   description:
+  //     "worked on stakeholder coordination, data-driven outreach, and digital engagement while collaborating with teams to improve participation and process efficiency.",
+  // },
   {
     role: "Operations Engineer Intern",
     company: "Zeepty",
@@ -31,14 +31,14 @@ const experiences = [
     company: "HSR Hi-Tech Solutions",
     duration: "2026",
     description:
-      "Contributing to ERP development and multiple technology projects within an IT Services and Consultancy organization. Working across Web Development, Full-Stack Development, Data Science, and AI/ML domains, assisting in the development of scalable applications and business solutions.",
+      "Contributing to ERP development and multiple technology projects within an IT Services and Consultancy organization. ",
   },
   {
     role: "AI and Full Stack Developer Intern",
     company: "Haldia Petrochemicals Ltd.",
     duration: "2026",
     description:
-      "Gained hands-on experience in full-stack development, backend API design, database management, authentication systems, and AI-powered automation to build a solution that streamlines ticket management, intelligent routing, workflow tracking, and support automation.",
+      "Gained hands-on experience in full-stack development, backend API design, database management, authentication systems, and AI-powered automation.",
   },
 ];
 
